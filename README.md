@@ -36,7 +36,6 @@
 
 ---
 
-* [1280x720 Placeholder](https://user-images.githubusercontent.com/66425036/209042717-1db291d1-2782-4541-8c75-945eebf83655.png)
 * [Icon](https://user-images.githubusercontent.com/66425036/209040510-471d738d-ce26-4513-a8f7-796ef5243e7a.jpg)
 * [Background](https://user-images.githubusercontent.com/66425036/209040588-5fa1ebc1-86c4-4c0e-95c5-cf3b289b8e50.png)
 
