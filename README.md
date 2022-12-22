@@ -35,8 +35,9 @@
 [<img src="https://i.imgur.com/TVI946Z.png" width="250" />](https://youtu.be/VfPa2c9kwhQ)
 
 ---
-![icon](https://user-images.githubusercontent.com/66425036/209040510-471d738d-ce26-4513-a8f7-796ef5243e7a.jpg)
-![bg1](https://user-images.githubusercontent.com/66425036/209040588-5fa1ebc1-86c4-4c0e-95c5-cf3b289b8e50.png)
+
+# ![icon](https://user-images.githubusercontent.com/66425036/209040510-471d738d-ce26-4513-a8f7-796ef5243e7a.jpg)
+# ![bg1](https://user-images.githubusercontent.com/66425036/209040588-5fa1ebc1-86c4-4c0e-95c5-cf3b289b8e50.png)
 
 
 ### Content Credits :green_heart:
