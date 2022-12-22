@@ -14,35 +14,35 @@ description: Olá, seja bem-vindo.
 site-image: 
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: \assets\images\SamplePost.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: assets\images\test.png
+heroimage: https://user-images.githubusercontent.com/66425036/209031795-a1750d52-47e6-4137-8dc3-e4e73e983660.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: /
-facebook_username: /
-twitter_username: /
-instagram_username: /
-linkedin_username: /
-github_username: /
-youtube_channel_id: /
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: mauriciop108@gmail.com
+facebook_username: 
+twitter_username: HtMau
+instagram_username: omauriciofreitas
+linkedin_username: mauricio-hastenreiter-94754014a
+github_username: MauFreitas
+youtube_channel_id: UCMjVmSMial8750qZCLCOoqQ
+reddit_username: iLendaBr
+behance_username: 
+dribbble_username: 
+spotify_username: 
 
 # Google Analytics
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: /
 
 # Name of the Author
-author-name: A
+author-name: Freitas,Mauricio
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: \assets\images\SamplePost.png
 # 60 Words About the Author
 author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
