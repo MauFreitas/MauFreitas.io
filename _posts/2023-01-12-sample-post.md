@@ -4,9 +4,7 @@ layout: post
 post-image: "https://user-images.githubusercontent.com/66425036/212267140-557e842a-eb20-45f9-9999-0ffd374b8ddc.png"
 description: Modelagem 3D é uma técnica utilizada para criar objetos tridimensionais no computador. Ela é amplamente utilizada em diversas áreas, como jogos, animações, arquitetura, engenharia e design.
 tags:
-- sample
-- post
-- test
+- 3D
 ---
 
 Existem vários softwares de modelagem 3D disponíveis no mercado, cada um com suas próprias características e ferramentas. Alguns dos mais populares incluem o Autodesk Maya, 3ds Max e Blender.
