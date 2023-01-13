@@ -54,8 +54,8 @@ A modelagem 3D pode ser dividida em duas categorias: modelagem poligonal e model
 <!--!**Images in the post will look like:**<br>
 [Test Image](https://user-images.githubusercontent.com/66425036/212267140-557e842a-eb20-45f9-9999-0ffd374b8ddc.png)-->
 
-**Normal text in the post will look like**<br>
-O processo de modelagem 3D geralmente começa com a criação de um esboço ou rascunho do objeto que se deseja criar. Em seguida, o modelador utiliza ferramentas de modelagem para dar forma e detalhes ao objeto. Finalmente, é aplicada textura e iluminação para dar ao objeto uma aparência realista.
+**O processo**<br>
+Modelagem 3D geralmente começa com a criação de um esboço ou rascunho do objeto que se deseja criar. Em seguida, o modelador utiliza ferramentas de modelagem para dar forma e detalhes ao objeto. Finalmente, é aplicada textura e iluminação para dar ao objeto uma aparência realista.
 
 A modelagem 3D é uma habilidade valiosa em vários campos e é uma área em constante evolução, com novas ferramentas e técnicas sendo desenvolvidas regularmente. Se você está interessado em aprender modelagem 3D, existem muitos cursos e tutoriais disponíveis online.
 
