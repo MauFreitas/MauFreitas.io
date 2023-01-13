@@ -35,12 +35,14 @@
 [<img src="https://i.imgur.com/TVI946Z.png" width="250" />](https://youtu.be/VfPa2c9kwhQ)
 
 ---
+
 * [icon-removebg](https://user-images.githubusercontent.com/66425036/209043786-e1bd859f-85f5-4955-9e13-d25cd8d0f215.png)
 * [Icon](https://user-images.githubusercontent.com/66425036/209040510-471d738d-ce26-4513-a8f7-796ef5243e7a.jpg)
 * [Background](https://user-images.githubusercontent.com/66425036/209040588-5fa1ebc1-86c4-4c0e-95c5-cf3b289b8e50.png)
 
 
 ### Content Credits :green_heart:
+* [MeeleWeapon](https://user-images.githubusercontent.com/66425036/212267140-557e842a-eb20-45f9-9999-0ffd374b8ddc.png)
 * [Hero Image](https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) used as a background image in the very first section of Homepage.
 * [Author Image](https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png) used in the Author Section.
 * [Font Awesome](https://fontawesome.com/)
